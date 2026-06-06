@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Frank! 
+Local from Melbourne, VIC
 
-<!--
-**fmina-IT/fmina-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Personal IT Home Lab Projects:
 
-Here are some ideas to get you started:
+Welcome to my systems administration laboratory. Below are my documented environments:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 1. Foundational Infrastructure
+* **Project:** [Enterprise Server Client Infrastructure Lab](https://github.com/fmina-IT/Enterprise-Server-Client-Infrastructure-Lab)
+* **Focus:** Active Directory, GPO, DNS/DHCP, Network Security.
+
+## 2. Cloud & Hybrid Identity - In Progress
+* **Project:** [Hybrid Identity Integration Lab](https://github.com/fmina-IT/Hybrid-Identity-Integration-Lab) 
+* **Focus:** Entra Connect synchronisation, Hybrid Identity trust, UPN suffix configuration, and Conditional Access policy testing.
+
+## 🤳 Connect with me:
+[<img align="left" alt="Frank Mina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/frank-mina-7149a3403)
