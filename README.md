@@ -10,7 +10,7 @@ Welcome to my systems administration laboratory. Below are my documented environ
 * **Project:** [Enterprise Server Client Infrastructure Lab](https://github.com/fmina-IT/Enterprise-Server-Client-Infrastructure-Lab)
 * **Focus:** Active Directory, GPO, DNS/DHCP, Network Security.
 
-### 2. Cloud & Hybrid Identity - In Progress
+### 2. Cloud & Hybrid Identity Integration
 * **Project:** [Hybrid Identity Integration Lab](https://github.com/fmina-IT/Hybrid-Identity-Integration-Lab) 
 * **Focus:** Entra Connect synchronisation, Hybrid Identity trust, UPN suffix configuration, and Conditional Access policy testing.
 
