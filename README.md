@@ -22,7 +22,7 @@ Welcome to my technical lab portfolio, where I document the hands on projects I 
 |----------------|--------|------------------|
 | CompTIA A+ Certification | CompTIA |  Expected Completion: July 2026 |
 | Certificate III In Information Technology | Chisholm Institute of TAFE | Expected Completion: 2027 |
-| Certificate II In Electrical |  Box Hill Institute of TAFE | Completed 2012 |
+| Certificate II In Electrotechnology |  Box Hill Institute of TAFE | Completed 2012 |
 
 
 ## 🤳 Connect with me:
