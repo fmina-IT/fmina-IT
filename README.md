@@ -1,18 +1,18 @@
 # Hi, I'm Frank! 
 Local from Melbourne, VIC
 
-Welcome to my systems administration laboratory. Below are my documented environments:
+Welcome to my technical lab portfolio, where I document the hands on projects I have built to master enterprise technologies. 
 
 ---
 ## 👨‍💻 Personal IT Home Lab Projects:
 
 ### 1. Foundational Infrastructure
 * **Project:** [Enterprise Server Client Infrastructure Lab](https://github.com/fmina-IT/Enterprise-Server-Client-Infrastructure-Lab)
-* **Focus:** Active Directory, GPO, DNS/DHCP, Network Security.
+* **Focus:** Designing and managing on-premises infrastructure, Windows Server administration, Active Directory Domain Services, GPO design, DNS/DHCP, and Network Security.
 
-### 2. Cloud & Hybrid Identity Integration
+### 2. Hybrid Identity Integration
 * **Project:** [Hybrid Identity Integration Lab](https://github.com/fmina-IT/Hybrid-Identity-Integration-Lab) 
-* **Focus:** Entra Connect synchronisation, Hybrid Identity trust, UPN suffix configuration, and Conditional Access policy testing.
+* **Focus:** Architecting hybrid identity solutions, Microsoft Entra Connect deployment, UPN suffix transformation, and implementing Zero-Trust security governance.
 
 ---
 
