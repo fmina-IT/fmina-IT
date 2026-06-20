@@ -12,7 +12,7 @@ Welcome to my technical lab portfolio, where I document the hands on projects I 
 
 ### 2. Hybrid Identity Integration
 * **Project:** [Hybrid Identity Integration Lab](https://github.com/fmina-IT/Hybrid-Identity-Integration-Lab) 
-* **Focus:** Architecting hybrid identity solutions, Microsoft Entra Connect deployment, UPN suffix transformation, and implementing Zero-Trust security governance.
+* **Focus:** Zero-Trust Conditional Access, Microsoft Intune device management, Endpoint Security Baselines, Entra Connect synchronisation, Hybrid Identity trust, and UPN suffix configuration.
 
 ---
 
